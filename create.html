@@ -140,7 +140,7 @@
 
         /* URL Creation */
         /*let url = "https://timbruenjes.github.io/lfm-player.github.io/?station=" + station.val() + "&color=" + color.substr(1); */
-        let url = "file:///D:/SoulBoxx_InternetRadio/Player_Sourcecode/code/index.html?station=" + station.val() + "&color=" + color.substr(1);
+        let url = "https://ortthomas.github.io/index.html?station=" + station.val() + "&color=" + color.substr(1);
         !station.val() ? station.addClass("is-invalid") : station.removeClass("is-invalid");
         station.val() ? $('[for*="station"]').addClass("active") : $('[for*="station"]').removeClass("active");
         $("#autoplay").is(":checked") && (url += "&autoplay=true");
