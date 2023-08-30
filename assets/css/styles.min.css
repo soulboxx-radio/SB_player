@@ -1,6 +1,6 @@
 s@import "fonts.min.css";
 @import "last_songs.min.css";
-    :root{--main-color:#1ed9b4}html{height:100%} <!-- body{background:#000000;    background:#facc99 - alt beige -->
+    :root{--main-color:#1ed9b4}html{height:100%} <!--body{background:#000000;    background:#facc99 - alt beige-->
         font-family:"Roboto",sans-serif !important;
         font-weight:700}h1,h2,h3,h4,h5,h6{font-family:"Work Sans",sans-serif;
         font-weight:700;color:#000a28}#nowplaying{vertical-align:middle;
