@@ -1,4 +1,4 @@
-@import "fonts.min.css";
+s@import "fonts.min.css";
 @import "last_songs.min.css";
     :root{--main-color:#1ed9b4}html{height:100%} <!--body{background:#000000;    background:#facc99 - alt beige -->
         font-family:"Roboto",sans-serif !important;
@@ -9,7 +9,7 @@
             align-self:center;
             font-weight:700;white-space:nowrap;overflow:hidden}
 #bgd_pattern {
-    background-image: url(./img/BACKGROUND-5.png);
+    background-image: url(./assets/img/BACKGROUND-5.png);
     position: fixed;
     opacity: 0.5;
     left: 0px;
