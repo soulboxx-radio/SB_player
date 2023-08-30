@@ -8,6 +8,16 @@
             align-items:center;
             align-self:center;
             font-weight:700;white-space:nowrap;overflow:hidden}
+#bgd_pattern {
+    background-image: url(./ONAIR-DEMO-BACKGROUND-5.jpg);
+    position: fixed;
+    opacity: 0.5;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
 #api_lfm_display_name{font-size=20px;font-weight:700;text-transform:uppercase}
 #api_lfm_current_song1{overflow:hidden;white-space:nowrap;width:100%}
 .broadcastbar{padding:15px;min-height:80px;background:#666;color:white}
