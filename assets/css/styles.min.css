@@ -8,16 +8,7 @@ s@import "fonts.min.css";
             align-items:center;
             align-self:center;
             font-weight:700;white-space:nowrap;overflow:hidden}
-#bgd_pattern {
-    background-image: url(assets/img/BACKGROUND-5.png);
-    position: fixed;
-    opacity: 0.5;
-    left: 0px;
-    top: 0px;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-  }
+
 #api_lfm_display_name{font-size=20px;font-weight:700;text-transform:uppercase}
 #api_lfm_current_song1{overflow:hidden;white-space:nowrap;width:100%}
 .broadcastbar{padding:15px;min-height:80px;background:#666;color:white}
@@ -25,8 +16,8 @@ s@import "fonts.min.css";
 .mutebtn{border-color:var(--main-color);border:2px solid;color:var(--main-color);height:50px;width:50px;border-radius:100%;font-size:1.3em;text-align:center;align-items:center;align-content:center;vertical-align:middle;background:transparent}
 @media(max-width:786px){.player-button,.mutebtn{width:55px;height:55px;font-size:1.3em}
 .player-button{margin-right:10px}a.social-link{font-size:1.3em;width:50px;height:50px;padding:10.75px 0;box-shadow:none}}
-.playbtn{background:var(--main-color)}.station_info_container{min-height:100px}.station_logo{background:white;border-radius:10px}
-.current_show_container,.station_details_container{background:white;border-radius:6px;padding:10px;min-height:100px}
+.playbtn{background:var(--main-color)}.station_info_container{background:#bebebe;min-height:100px}.station_logo{background:white;border-radius:10px}
+.current_show_container,.station_details_container{background:#bebebe;border-radius:6px;padding:10px;min-height:100px}
 .station_details_links{vertical-align:bottom}
 #show_start:before{content:"Programm seit: "}
 #next_start:before{content:"Nächste Show ab "}
