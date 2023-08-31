@@ -16,7 +16,9 @@ s@import "fonts.min.css";
 .mutebtn{border-color:var(--main-color);border:2px solid;color:var(--main-color);height:50px;width:50px;border-radius:100%;font-size:1.3em;text-align:center;align-items:center;align-content:center;vertical-align:middle;background:transparent}
 @media(max-width:786px){.player-button,.mutebtn{width:55px;height:55px;font-size:1.3em}
 .player-button{margin-right:10px}a.social-link{font-size:1.3em;width:50px;height:50px;padding:10.75px 0;box-shadow:none}}
-.playbtn{background:var(--main-color)}.station_info_container{background:#bebebe;min-height:100px}.station_logo{background:white;border-radius:10px}
+.playbtn{background:var(--main-color)}
+.station_info_container{background:#000000;min-height:100px}
+.station_logo{background:white;border-radius:10px}
 .current_show_container,.station_details_container{background:#bebebe;border-radius:6px;padding:10px;min-height:100px}
 .station_details_links{vertical-align:bottom}
 #show_start:before{content:"Programm seit: "}
