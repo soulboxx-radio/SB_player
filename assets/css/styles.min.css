@@ -30,7 +30,8 @@ s@import "fonts.min.css";
 .playbtn{background:var(--main-color)}
 .station_info_container{background:#292929;min-height:100px}
 .station_logo{background:white;border-radius:10px}
-.current_show_container,.station_details_container{background:#bebebe;border-radius:6px;padding:10px;min-height:100px}
+.current_show_container{background:#292929;min-height:100px}
+.station_details_container{background:#bebebe;border-radius:6px;padding:10px;min-height:100px}
 .station_details_links{vertical-align:bottom}
 #show_start:before{content:"Programm seit: "}
 #next_start:before{content:"Nächste Show ab "}
