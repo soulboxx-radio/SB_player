@@ -29,7 +29,7 @@ s@import "fonts.min.css";
 .player-button{margin-right:10px}a.social-link{font-size:1.3em;width:50px;height:50px;padding:10.75px 0;box-shadow:none}}
 .playbtn{background:var(--main-color)}
 .station_info_container{background:#29292929;min-height:100px}
-.station_logo{background:white;border-radius:10px}
+.station_logo{background:#29292929;border-radius:10px}
 .current_show_container{background:#bebebebe;min-height:100px}
 .station_details_container{background:#bebebe;border-radius:6px;padding:10px;min-height:100px}
 .station_details_links{vertical-align:bottom}
