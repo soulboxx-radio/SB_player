@@ -1,4 +1,4 @@
-# laut.fm Pop-Up Player
+# Soulboxx Pop-Up Player für laut.fm
 Dieser Pop-Up Player spielt das mittels `station` definierte Web-Radio (gehostet von laut.fm), 
 zeigt die Trackhistorie sowie die Infos der Radiostation an.
 Der Code basiert auf dem Github-Repo `lfm-player.github.io` von Tim Brünjes (timbruenjes) auf github.
